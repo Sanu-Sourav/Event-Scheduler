@@ -21,6 +21,7 @@ class _MyApp extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
           backgroundColor: Colors.deepPurple[200],
+
           appBar: AppBar(
             title: Text('Event Scheduler'),
             backgroundColor: Colors.deepPurpleAccent,
